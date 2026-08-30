@@ -137,6 +137,24 @@ Algunas de las cosas en las que he trabajado:
 
 ---
 
+---
+
+## 🌐 Redes
+
+<p align="center">
+  <a href="https://www.instagram.com/itss_.alexxis/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/alexis2734/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@its_alexiss6">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</p>
+
+---
+
 <div align="center">
 
 ### 一步一步学习，一点一点进步 💻✨
@@ -146,24 +164,6 @@ Algunas de las cosas en las que he trabajado:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%">
 
-<br>
-
-<details>
-<summary><sub>·</sub></summary>
-<br>
-
-<div align="center">
-
-<img src="https://media.tenor.com/2roX3uxSXjEAAAAi/loading-heart.gif" width="60">
-
-### 💖 Dedicado a Lesly 💖
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&height=35&lines=Para+ti%2C+Lesly+%F0%9F%92%96;Gracias+por+ser+mi+motivaci%C3%B3n;Este+perfil+tambi%C3%A9n+es+tuyo+%E2%9C%A8" alt="dedicatoria" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=❤️%20Lesly%20❤️&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%">
-
-</div>
-
-</details>
+<sub>💖 para Lesly</sub>
 
 </div>
