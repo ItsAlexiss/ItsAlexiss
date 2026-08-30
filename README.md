@@ -1,116 +1,129 @@
-<!-- ========================================================= -->
-<!--                     ALEXIS PROFILE                        -->
-<!-- ========================================================= -->
+<img align="right" src="https://count.getloli.com/get/@:ItsAlexiss?theme=moebooru">
 
-<div align="center">
+# 一只努力学习的程序员 — Alexis
 
-# Hola, soy Alexis
+<p align="center">
+  <a href="https://github.com/ItsAlexiss">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Alexis;William+Alexander+Ordon+Gómez;5to+Año+de+Informática+👨‍🎓;Programming+%7C+Web+Development+%7C+APIs;React+%7C+JavaScript+%7C+Python+%7C+Lua;Friday+Night+Funkin'+Modding;Psych+Engine+%7C+Shaders+%7C+Lua+Scripts;Welcome+to+my+GitHub">
+  </a>
+</p>
 
-### William Alexander Ordon Gómez
-
-**Estudiante de 5to año de Informática | Developer | Creador de proyectos**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Bienvenido+a+mi+perfil+de+GitHub;Estudiante+de+Informática;Me+gusta+programar+y+crear;React+%7C+JavaScript+%7C+Python+%7C+Lua;Desarrollo+web+y+APIs;Friday+Night+Funkin'+Modding;Siempre+aprendiendo+algo+nuevo" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-5to%20Informática-00FFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Developer-Programming-7B68EE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FNF-Modding-FF1493?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-User-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
 ---
 
-<img align="right" width="300" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp">
+## Sobre mí <picture><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40"></picture>
 
-## Sobre mí
+<div>
+<img align="right" alt="Coding" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" />
+</div>
 
 Hola, soy **Alexis**.
 
-Mi nombre es **William Alexander Ordon Gómez** y actualmente estudio **5to año de la carrera de Informática**.
+Mi nombre es **William Alexander Ordon Gómez** y soy estudiante de **5to año de la carrera de Informática**.
 
-Me gusta aprender programación haciendo proyectos y probando diferentes tecnologías. Me interesa especialmente el desarrollo web, las APIs, la programación y la creación de proyectos propios.
+Me gusta aprender programación haciendo proyectos y experimentando con diferentes tecnologías.
 
-También me gusta mucho trabajar en **Friday Night Funkin'**, principalmente creando mods, scripts, efectos y sistemas utilizando **Lua y Psych Engine**.
+Me interesa principalmente el desarrollo web, las APIs, la programación, Linux, electrónica y el modding de videojuegos.
 
-### Actualmente estoy aprendiendo y trabajando con:
-
+- Estudiante de 5to año de Informática
 - Desarrollo web
-- React
-- JavaScript
-- HTML y CSS
-- APIs REST
+- React y JavaScript
+- APIs y PokeAPI
 - Python
 - Lua
 - Git y GitHub
 - Linux
 - Arduino
+- Friday Night Funkin' Modding
 - Psych Engine
+- Shaders y efectos visuales
 
 <br clear="right"/>
 
 ---
 
-## Tecnologías y herramientas
+## Mis intereses
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/WEB-Development-61DAFB?style=for-the-flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/API-Development-00ADD8?style=for-the-flat">
+<img src="https://img.shields.io/badge/GAME-Modding-FF1493?style=for-the-flat">
+<img src="https://img.shields.io/badge/LINUX-Technology-FCC624?style=for-the-flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/ELECTRONICS-Arduino-00979D?style=for-the-flat&logo=arduino&logoColor=white">
+
+</p>
+
+---
+
+# 技术栈 / Tecnologías 🛠️
 
 ### Lenguajes
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000">
+<img src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Lua-%232C2D72?style=flat&logo=lua&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=ffffff">
 </p>
 
 ### Desarrollo Web
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=000000">
+<img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=ffffff">
 </p>
 
 ### Herramientas
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white">
 </p>
 
 ---
 
-## Proyectos
+# Friday Night Funkin' Modding 🎵
 
-### Pok-Dex
+<div align="center">
 
-Una Pokédex web desarrollada con **React + Vite**, utilizando **PokeAPI** para obtener información de los Pokémon.
+<img src="https://static.wikia.nocookie.net/deathbattlefanon/images/6/65/Boyfriend_%28FNF%29_render.png/revision/latest?cb=20210529054044" width="220">
 
-Cuenta con búsqueda por nombre o ID, filtros por tipo, ordenamiento, tarjetas de información y una vista detallada de cada Pokémon.
+<img src="https://media1.tenor.com/m/ENyTVRQVxiMAAAAC/fnf-bf-fortnite-griddy.gif" width="220">
 
-<p align="center">
+</div>
 
-<a href="https://github.com/ItsAlexiss/Pok-Dex">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAlexiss&repo=Pok-Dex&theme=tokyonight&hide_border=true">
-</a>
+### Psych Engine
 
-</p>
+Una de las cosas que más me gusta hacer es trabajar con **Friday Night Funkin'**, principalmente utilizando **Psych Engine y Lua**.
 
----
-
-## Friday Night Funkin' Modding
-
-Una de las cosas que más me gusta hacer es trabajar con **Friday Night Funkin' y Psych Engine**.
-
-Me gusta experimentar creando diferentes sistemas y efectos para mods.
+Me gusta experimentar con scripts, eventos, shaders y diferentes efectos para crear experiencias personalizadas.
 
 ```text
-Psych Engine
-     │
-     ├── Lua Scripts
-     ├── Eventos personalizados
-     ├── Efectos de cámara
-     ├── Shaders
-     ├── Efectos visuales
-     ├── HUD personalizado
-     ├── Sistemas de notas
-     └── Animaciones
+Friday Night Funkin'
+        │
+        ▼
+   Psych Engine
+        │
+        ├── Lua Scripts
+        ├── Custom Events
+        ├── Camera Effects
+        ├── HUD Systems
+        ├── Note Effects
+        ├── Shaders
+        ├── Visual Effects
+        ├── Character Effects
+        ├── Animations
+        └── Custom Mechanics
