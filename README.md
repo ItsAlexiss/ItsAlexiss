@@ -1,12 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola,%20soy%20Alexis!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=William%20Alexander%20Ordoñez%20Gómez&descAlignY=55&descSize=18" width="100%">
+
 <img src="https://count.getloli.com/get/@:ItsAlexiss?theme=moebooru" alt="visitor count"/>
 
-<img src="https://media1.tenor.com/m/qohWY7EaQA8AAAAC/disco.gif" width="120">
-
-# ¡Hola, soy Alexis! 👋
-
-### William Alexander Ordoñez Gómez
+<p>
+  <img src="https://media1.tenor.com/m/qohWY7EaQA8AAAAC/disco.gif" width="100">
+  <img src="https://media.tenor.com/2Hh8evJomokAAAAi/bf-smile.gif" width="100">
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=940&height=45&lines=5to+A%C3%B1o+de+Inform%C3%A1tica+%F0%9F%8E%93;Desarrollador+Full+Stack+en+formaci%C3%B3n;Modding+de+Friday+Night+Funkin%27+%F0%9F%8E%B5;Psych+Engine+%7C+Lua+%7C+Shaders+GLSL;React+%7C+JavaScript+%7C+Python+%7C+Arduino;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -39,40 +40,32 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Lenguajes
-<p>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/-Haxe-EA8220?style=flat-square&logo=haxe&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,py,lua,cpp,haxe&theme=dark" />
 
 ### Desarrollo Web
-<p>
-<img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000">
-<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs&theme=dark" />
 
-### Bases de Datos y Herramientas
-<p>
+### Data Science & Notebooks
+<img src="https://skillicons.dev/icons?i=anaconda,py&theme=dark" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+
+### Herramientas y Sistemas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&theme=dark" />
 <img src="https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
-</p>
+
+</div>
+
+> 💡 Uso **Anaconda** y **Jupyter Notebook** para experimentar con Python, análisis de datos y probar scripts antes de integrarlos a mis proyectos.
 
 ---
 
 ## 🎵 Friday Night Funkin' Modding
 
 <div align="center">
+<img src="https://media.tenor.com/3TXQm9SsZGkAAAAi/idle-boyfriend-fnf.gif" width="180">
 <img src="https://static.wikia.nocookie.net/deathbattlefanon/images/6/65/Boyfriend_%28FNF%29_render.png/revision/latest?cb=20210529054044" width="180">
 <img src="https://media1.tenor.com/m/ENyTVRQVxiMAAAAC/fnf-bf-fortnite-griddy.gif" width="180">
 <img src="https://media1.tenor.com/m/iwfGQVzVJ44AAAAC/gif.gif" width="180">
@@ -149,26 +142,28 @@ Algunas de las cosas en las que he trabajado:
 ### 一步一步学习，一点一点进步 💻✨
 **Code • Create • Experiment • Learn**
 
+**Hecho con ❤️ por Alexis**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%">
+
 <br>
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1">
-
-## 💖 Dedicado a Lesly 💖
-
-<img src="https://media.tenor.com/2roX3uxSXjEAAAAi/loading-heart.gif" width="80">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&height=40&lines=Para+ti%2C+Lesly+%F0%9F%92%96;Gracias+por+ser+mi+motivaci%C3%B3n;Este+perfil+tambi%C3%A9n+es+tuyo+%E2%9C%A8" alt="dedicatoria" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=❤️%20Lesly%20❤️&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%">
-
-</div>
-
+<details>
+<summary><sub>·</sub></summary>
 <br>
 
 <div align="center">
 
-**Hecho con ❤️ por Alexis**
+<img src="https://media.tenor.com/2roX3uxSXjEAAAAi/loading-heart.gif" width="60">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%">
+### 💖 Dedicado a Lesly 💖
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&height=35&lines=Para+ti%2C+Lesly+%F0%9F%92%96;Gracias+por+ser+mi+motivaci%C3%B3n;Este+perfil+tambi%C3%A9n+es+tuyo+%E2%9C%A8" alt="dedicatoria" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=❤️%20Lesly%20❤️&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%">
+
+</div>
+
+</details>
 
 </div>
