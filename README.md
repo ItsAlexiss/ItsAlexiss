@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ItsAlexiss">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Alexis;William+Alexander+Ordon+Gómez;5to+Año+de+Informática+👨‍🎓;Programming+%7C+Web+Development+%7C+APIs;React+%7C+JavaScript+%7C+Python+%7C+Lua;Friday+Night+Funkin'+Modding;Psych+Engine+%7C+Shaders+%7C+Lua+Scripts;Arch+Linux+%7C+Anaconda+%7C+Jupyter;Welcome+to+my+GitHub">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Alexis;William+Alexander+Ordon+Gómez;5to+Año+de+Informática+👨‍🎓;Programming+%7C+Web+Development+%7C+APIs;React+%7C+JavaScript+%7C+Python+%7C+Lua;Friday+Night+Funkin'+Modding;Psych+Engine+%7C+Shaders+%7C+Lua+Scripts;Welcome+to+my+GitHub">
   </a>
 </p>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Student-5to%20Informática-00FFFF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Developer-Programming-7B68EE?style=for-the-badge">
   <img src="https://img.shields.io/badge/FNF-Modding-FF1493?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-User-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 ---
@@ -39,10 +39,7 @@ Me interesa principalmente el desarrollo web, las APIs, la programación, Linux,
 - Lua
 - Git y GitHub
 - Linux
-- Arch Linux
 - Arduino
-- Anaconda
-- Jupyter Notebook
 - Friday Night Funkin' Modding
 - Psych Engine
 - Shaders y efectos visuales
@@ -58,8 +55,7 @@ Me interesa principalmente el desarrollo web, las APIs, la programación, Linux,
 <img src="https://img.shields.io/badge/WEB-Development-61DAFB?style=for-the-flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/API-Development-00ADD8?style=for-the-flat">
 <img src="https://img.shields.io/badge/GAME-Modding-FF1493?style=for-the-flat">
-<img src="https://img.shields.io/badge/LINUX-Arch%20Linux-1793D1?style=for-the-flat&logo=archlinux&logoColor=white">
-<img src="https://img.shields.io/badge/DATA-Science-44A833?style=for-the-flat&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/LINUX-Technology-FCC624?style=for-the-flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/ELECTRONICS-Arduino-00979D?style=for-the-flat&logo=arduino&logoColor=white">
 
 </p>
@@ -87,17 +83,6 @@ Me interesa principalmente el desarrollo web, las APIs, la programación, Linux,
 <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=ffffff">
 </p>
 
-### Python / Data Science
-
-<p>
-<img src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-NumPy-%23013243?style=flat&logo=numpy&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Matplotlib-%233776AB?style=flat&logo=python&logoColor=ffffff">
-</p>
-
 ### Herramientas
 
 <p>
@@ -105,37 +90,40 @@ Me interesa principalmente el desarrollo web, las APIs, la programación, Linux,
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000">
-<img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white">
 </p>
 
 ---
 
-# Experiencia con Linux / Arch Linux
+# Friday Night Funkin' Modding 🎵
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arch%20Linux-Experienced-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+<img src="https://static.wikia.nocookie.net/deathbattlefanon/images/6/65/Boyfriend_%28FNF%29_render.png/revision/latest?cb=20210529054044" width="220">
+
+<img src="https://media1.tenor.com/m/ENyTVRQVxiMAAAAC/fnf-bf-fortnite-griddy.gif" width="220">
 
 </div>
 
-He trabajado con **Linux**, principalmente con **Arch Linux**, experimentando con la instalación, configuración y personalización del sistema.
+### Psych Engine
 
-También he trabajado con herramientas de terminal, administración de paquetes y personalización del entorno.
+Una de las cosas que más me gusta hacer es trabajar con **Friday Night Funkin'**, principalmente utilizando **Psych Engine y Lua**.
+
+Me gusta experimentar con scripts, eventos, shaders y diferentes efectos para crear experiencias personalizadas.
 
 ```text
-                    ARCH LINUX
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       PACMAN           AUR          TERMINAL
-          │              │              │
-          ▼              ▼              ▼
-      Paquetes         Paru          Bash / CLI
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                      HYPRLAND
-                         │
-                         ▼
-                   PERSONALIZACIÓN
+Friday Night Funkin'
+        │
+        ▼
+   Psych Engine
+        │
+        ├── Lua Scripts
+        ├── Custom Events
+        ├── Camera Effects
+        ├── HUD Systems
+        ├── Note Effects
+        ├── Shaders
+        ├── Visual Effects
+        ├── Character Effects
+        ├── Animations
+        └── Custom Mechanics
