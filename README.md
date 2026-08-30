@@ -127,3 +127,13 @@ Friday Night Funkin'
         ├── Character Effects
         ├── Animations
         └── Custom Mechanics
+<div align="center">
+一步一步学习，一点一点进步。 💻✨
+Code • Create • Experiment • Learn
+<br>
+❤️ Lesly
+<br>
+
+Made with ❤️ by Alexis
+
+</div> ```
