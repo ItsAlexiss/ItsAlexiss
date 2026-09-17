@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=¡Hola,%20soy%20Alexis!%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=William%20Alexander%20Ordoñez%20Gómez%20·%205to%20Año%20de%20Informática&descAlignY=52&descSize=17" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=¡Hola,%20soy%20Alexis!%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=William%20Alexander%20Ordon%20Gómez%20·%205to%20Año%20de%20Informática&descAlignY=52&descSize=17" width="100%">
 
 <img src="https://count.getloli.com/get/@:ItsAlexiss?theme=moebooru" alt="visitor count"/>
 <img src="https://komarev.com/ghpvc/?username=ItsAlexiss&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
