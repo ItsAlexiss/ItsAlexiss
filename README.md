@@ -140,8 +140,6 @@ Friday Night Funkin'
 - Notas custom con animaciones únicas en jugador/oponente
 - Efectos elásticos y de resorte en las flechas del oponente
 
-**❤️ HUD**
-- Barra de vida animada hecha desde cero (atlas Sparrow)
 
 </td>
 </tr>
